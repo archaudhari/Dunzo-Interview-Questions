@@ -1,0 +1,1 @@
+// Check given string is palindrome or not.
